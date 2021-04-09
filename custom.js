@@ -21,7 +21,7 @@ function videoSearch(key,search, maxResults){
             
             video = `
             
-                <iframe width="370" height="280" src="http://www.youtube.com/embed/${item.id.videoId}" frameborder="0" allowfullscreen> </iframe>
+                <iframe width="370" height="280" src="https://www.youtube.com/embed/${item.id.videoId}" frameborder="0" allowfullscreen> </iframe>
 
             `
 
